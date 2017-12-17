@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HomeWork5</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_title">input title</string>
+    <string name="input_description">input description</string>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.denero.homework5.MainActivity">
+    <item
+        android:id="@+id/action_not_complete"
+        android:orderInCategory="100"
+        android:title="Показывать только незавершенные"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_complete"
+        android:orderInCategory="100"
+        android:title="Показывать Все"
+        app:showAsAction="never" />
+</menu>
